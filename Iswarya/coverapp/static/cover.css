@@ -1,0 +1,52 @@
+
+.whole{
+    background-image: url(bgimg.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    position: center;
+    height: 600px;
+    width: 400px;
+    padding: 10px;
+    margin-top: 50px;
+}
+.border{
+    height: 570px ;
+    width: auto;
+    padding: 10px;
+    border: 3px solid black;
+}
+.bod{
+    display: flex;
+    justify-content: center;
+    
+}
+.st{
+    margin-top: 10%;
+    font-style: italic;
+    font-size: 25px;
+}
+.tl
+{
+    font-size: 38px;
+    text-align: center;
+    font-style: italic;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.footer{
+    display: flex;
+    flex-direction: column;
+    margin-top: 40%;
+}
+
+.img{
+    height: 100px;
+    float: right;
+    justify-content: space-between;
+}
+.sec{
+    float: right;
+}
+.hr
+{
+    width: 380px;
+}

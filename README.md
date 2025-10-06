@@ -31,10 +31,102 @@ Insert the images in their appropriate places.
 Publish the website in the LocalHost.
 
 ## PROGRAM:
+```
+cover.html
 
+<html>
+    <head>
+        <title>Special Edition </title>
+        <link rel="stylesheet" href="cover.css">
+    </head>
+    <body class="bod">
+        <div class="whole">
+            <div class="border">
+                    SEC Insights 
+                    <br>  
+                    <br>
+                    <div class="tl"><b>MY VISION ABOUT PROCASTINATION</b></div>
+                    <br>
+                    <div class="st">
+                        The War within: Winning against your Delay
+                        Top Seller of 2025
+                    </div>
+                    <div class="footer">
+                        <div class="Edition">
+                                <b class="se">SPECIAL EDITION</b>
+                                <img src="img2.jpeg" class="img">
+                        </div>
+                        <hr class="hr">
+                        <div>
+                           Iswarya-S(25016326)
+                           <div class="sec">SEC</div> 
+                        </div>
+
+                    </div>
+            </div>
+        </div>
+    </body>
+</html>
+
+cover.css
+
+
+.whole{
+    background-image: url(bgimg.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    position: center;
+    height: 600px;
+    width: 400px;
+    padding: 10px;
+    margin-top: 50px;
+}
+.border{
+    height: 570px ;
+    width: auto;
+    padding: 10px;
+    border: 3px solid black;
+}
+.bod{
+    display: flex;
+    justify-content: center;
+    
+}
+.st{
+    margin-top: 10%;
+    font-style: italic;
+    font-size: 25px;
+}
+.tl
+{
+    font-size: 38px;
+    text-align: center;
+    font-style: italic;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.footer{
+    display: flex;
+    flex-direction: column;
+    margin-top: 40%;
+}
+
+.img{
+    height: 100px;
+    float: right;
+    justify-content: space-between;
+}
+.sec{
+    float: right;
+}
+.hr
+{
+    width: 380px;
+}
+
+```
 
 ## OUTPUT:
-
-
+![alt text](<Screenshot (30).png>)
+ ![alt text](<Screenshot (31).png>)
 ## RESULT:
 The program for designing book front cover page using HTML and CSS is completed successfully.
