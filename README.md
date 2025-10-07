@@ -45,10 +45,10 @@ cover.html
                     SEC Insights 
                     <br>  
                     <br>
-                    <div class="tl"><b>MY VISION ABOUT PROCASTINATION</b></div>
+                    <div class="tl"><b>MASTERING BOOTSTRAP</b></div>
                     <br>
                     <div class="st">
-                        The War within: Winning against your Delay
+                        "Bootstrap your way to brilliance, where responsive design meets effortless style!"<br>
                         Top Seller of 2025
                     </div>
                     <div class="footer">
@@ -126,7 +126,7 @@ cover.css
 ```
 
 ## OUTPUT:
-![alt text](<Screenshot (31).png>)
-![alt text](<Screenshot (32).png>)
+![alt text](<Screenshot (33).png>)
+![alt text](<Screenshot (34).png>)
 ## RESULT:
 The program for designing book front cover page using HTML and CSS is completed successfully.
